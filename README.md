@@ -1,6 +1,6 @@
-# Imaging Atlas — inpatient CT and MRI in Germany
+# Germany Imaging Atlas — inpatient CT and MRI
 
-**Open the atlas: https://hamed-kalak.github.io/imaging-atlas-germany/**
+**Open the atlas: https://w3id.org/germany-imaging-atlas/**
 
 Inpatient CT and MRI utilisation across 624 ICD-10-GM diagnoses in Germany,
 2005–2024, from the German DRG statistics, a mandatory annual census of every
@@ -32,13 +32,15 @@ apply to the RDC under its standard terms.
 ## Cite
 
 > Mirbagheri H, Scheurig-Münkler C, Hellbrück S, Kröncke T, Decker JA.
-> Imaging Atlas: inpatient CT and MRI in Germany, version 1.0 (extraction v2.8)
-> [dashboard]. 2026. https://hamed-kalak.github.io/imaging-atlas-germany/
+> Germany Imaging Atlas: inpatient CT and MRI, version 1.0 (extraction v2.8)
+> [dashboard]. 2026. https://w3id.org/germany-imaging-atlas/
 
 Please cite the Article for any use of these estimates.
 
 ## About this repository
 
-This repository holds the built site only. It is served by GitHub Pages and makes
+This repository holds the built site only. It is served by GitHub Pages at
+https://hamed-kalak.github.io/germany-imaging-atlas/; cite the permanent w3id
+address above, which will follow the atlas if it moves. The site makes
 no requests to third parties: fonts and data are bundled. `build.json` records
 the data file's SHA-256 and the validation checks it passed before release.
