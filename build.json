@@ -1,7 +1,7 @@
 {
   "app": "imaging-atlas-germany",
-  "built": "2026-10-22T12:52:59.831Z",
-  "commit": "0119220",
+  "built": "2026-10-26T08:37:47.060Z",
+  "commit": "3316467",
   "worktree": "clean",
   "data": {
     "file": "src/data/realData.json",

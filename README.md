@@ -25,9 +25,8 @@ apply to the RDC under its standard terms.
 
 **Required source line for any reuse:**
 
-> RDC of the Federal Statistical Office and Statistical Offices of the Länder,
-> Fallpauschalenbezogene Krankenhausstatistik (DRG-Statistik), 2005–2024,
-> own calculations (project 4509-2021).
+> Source: RDC of the Federal Statistical Office and Statistical Offices of the Federal States,
+> DOI: 10.21242/23141.2005.00.00.1.1.0 to 10.21242/23141.2024.00.00.1.1.0, own calculations.
 
 ## Cite
 
@@ -35,7 +34,8 @@ apply to the RDC under its standard terms.
 > Germany Imaging Atlas: inpatient CT and MRI, version 1.0 (extraction v2.8)
 > [dashboard]. 2026. https://w3id.org/germany-imaging-atlas/
 
-Please cite the Article for any use of these estimates.
+Data and code: https://doi.org/10.5281/zenodo.23563278 (Zenodo). Please cite the Article
+for any use of these estimates.
 
 ## About this repository
 
